@@ -1,0 +1,9 @@
+#cardname , #newcardname {
+    width: 400px;
+    height: 400px;
+}
+
+#cardname img, #newcardname img{
+    width: 100%;
+    height: 70%;
+}
